@@ -1,0 +1,525 @@
+[2022-05-19T11:50:29.768] [INFO] default - Database Connected
+[2022-05-19T11:50:29.782] [INFO] default - Server started at 5000
+[2022-05-19T11:50:54.039] [INFO] default - Registration api has been called
+[2022-05-19T11:50:54.378] [INFO] default - Registration Successful
+[2022-05-19T11:50:54.378] [INFO] default - { name: 'Sajid Anis', email: 'sajid.anis2206@gmail.com' }
+[2022-05-19T11:51:27.297] [INFO] default - Activation Controller Called
+[2022-05-19T11:51:27.298] [ERROR] default - JsonWebTokenError --> invalid signature
+[2022-05-19T11:51:31.426] [INFO] default - Activation Controller Called
+[2022-05-19T11:51:31.427] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:51:44.995] [INFO] default - Login Controller Called
+[2022-05-19T11:51:49.924] [INFO] default - Forget Controller Called
+[2022-05-19T11:54:59.461] [INFO] default - Database Connected
+[2022-05-19T11:54:59.473] [INFO] default - Server started at 5000
+[2022-05-19T11:55:01.197] [INFO] default - Database Connected
+[2022-05-19T11:55:01.209] [INFO] default - Server started at 5000
+[2022-05-19T11:55:21.011] [INFO] default - Database Connected
+[2022-05-19T11:55:21.022] [INFO] default - Server started at 5000
+[2022-05-19T11:55:24.669] [INFO] default - Activation Controller Called
+[2022-05-19T11:55:24.672] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:55:42.961] [INFO] default - Activation Controller Called
+[2022-05-19T11:55:42.963] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:56:39.326] [INFO] default - Database Connected
+[2022-05-19T11:56:39.339] [INFO] default - Server started at 5000
+[2022-05-19T11:56:42.760] [INFO] default - Activation Controller Called
+[2022-05-19T11:56:42.762] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:56:53.443] [INFO] default - Activation Controller Called
+[2022-05-19T11:56:53.445] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:57:09.118] [INFO] default - Activation Controller Called
+[2022-05-19T11:57:09.119] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:57:15.570] [INFO] default - Login Controller Called
+[2022-05-19T11:58:35.530] [INFO] default - Login Controller Called
+[2022-05-19T11:58:42.398] [INFO] default - Activation Controller Called
+[2022-05-19T11:58:42.399] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652941254,
+  exp: 1652943054
+}
+[2022-05-19T11:58:44.808] [INFO] default - Login Controller Called
+[2022-05-19T11:58:49.017] [INFO] default - Forget Controller Called
+[2022-05-19T11:59:10.365] [INFO] default - Database Connected
+[2022-05-19T11:59:10.378] [INFO] default - Server started at 5000
+[2022-05-19T11:59:12.162] [INFO] default - Database Connected
+[2022-05-19T11:59:12.173] [INFO] default - Server started at 5000
+[2022-05-19T11:59:13.553] [INFO] default - Database Connected
+[2022-05-19T11:59:13.565] [INFO] default - Server started at 5000
+[2022-05-19T11:59:21.551] [INFO] default - Forget Controller Called
+[2022-05-19T11:59:21.552] [ERROR] default - Result { formatter: [Function: formatter], errors: [] }
+[2022-05-19T11:59:22.642] [INFO] default - exports {
+  messageId: '<202205190829.20365663292@smtp-relay.mailin.fr>'
+}
+[2022-05-19T12:00:28.308] [INFO] default - Database Connected
+[2022-05-19T12:00:28.320] [INFO] default - Server started at 5000
+[2022-05-19T12:00:36.750] [INFO] default - Database Connected
+[2022-05-19T12:00:36.763] [INFO] default - Server started at 5000
+[2022-05-19T12:00:39.423] [INFO] default - Database Connected
+[2022-05-19T12:00:39.435] [INFO] default - Server started at 5000
+[2022-05-19T12:01:12.524] [INFO] default - Database Connected
+[2022-05-19T12:01:12.539] [INFO] default - Server started at 5000
+[2022-05-19T12:01:20.275] [INFO] default - Database Connected
+[2022-05-19T12:01:20.288] [INFO] default - Server started at 5000
+[2022-05-19T12:01:28.617] [INFO] default - Database Connected
+[2022-05-19T12:01:28.629] [INFO] default - Server started at 5000
+[2022-05-19T12:19:03.070] [INFO] default - Database Connected
+[2022-05-19T12:19:03.082] [INFO] default - Server started at 5000
+[2022-05-19T12:19:31.223] [INFO] default - Registration api has been called
+[2022-05-19T12:19:31.560] [INFO] default - Registration Successful
+[2022-05-19T12:19:31.561] [INFO] default - { name: 'Sajid Anis', email: 'sajid.anis2206@gmail.com' }
+[2022-05-19T12:19:38.254] [INFO] default - Login Controller Called
+[2022-05-19T12:20:00.823] [INFO] default - Activation Controller Called
+[2022-05-19T12:20:00.825] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652942971,
+  exp: 1652944771
+}
+[2022-05-19T12:20:03.422] [INFO] default - Login Controller Called
+[2022-05-19T12:21:18.358] [INFO] default - Forget Controller Called
+[2022-05-19T12:21:18.924] [INFO] default - exports {
+  messageId: '<202205190851.41661785946@smtp-relay.mailin.fr>'
+}
+[2022-05-19T12:22:04.148] [INFO] default - Forget Controller Called
+[2022-05-19T12:22:04.148] [ERROR] default - Invalid value
+[2022-05-19T12:22:33.210] [INFO] default - Reset Password Controller Called
+[2022-05-19T12:22:33.211] [INFO] default - { email: 'sajid.anis2206@gmail.com', iat: 1652943078, exp: 1652943678 }
+[2022-05-19T12:22:54.546] [INFO] default - Login Controller Called
+[2022-05-19T12:23:02.070] [INFO] default - Login Controller Called
+[2022-05-19T12:23:28.707] [INFO] default - Database Connected
+[2022-05-19T12:23:28.718] [INFO] default - Server started at 5000
+[2022-05-19T12:23:37.088] [INFO] default - Database Connected
+[2022-05-19T12:23:37.100] [INFO] default - Server started at 5000
+[2022-05-19T12:23:45.363] [INFO] default - Database Connected
+[2022-05-19T12:23:45.375] [INFO] default - Server started at 5000
+[2022-05-19T12:23:50.063] [INFO] default - Database Connected
+[2022-05-19T12:23:50.074] [INFO] default - Server started at 5000
+[2022-05-19T12:23:52.316] [INFO] default - Database Connected
+[2022-05-19T12:23:52.330] [INFO] default - Server started at 5000
+[2022-05-19T12:23:55.907] [INFO] default - Database Connected
+[2022-05-19T12:23:55.922] [INFO] default - Server started at 5000
+[2022-05-19T12:24:00.837] [INFO] default - Database Connected
+[2022-05-19T12:24:00.849] [INFO] default - Server started at 5000
+[2022-05-19T12:24:29.033] [INFO] default - Database Connected
+[2022-05-19T12:24:29.044] [INFO] default - Server started at 5000
+[2022-05-19T12:24:31.925] [INFO] default - Database Connected
+[2022-05-19T12:24:31.937] [INFO] default - Server started at 5000
+[2022-05-19T12:24:36.402] [INFO] default - Forget Controller Called
+[2022-05-19T12:24:37.445] [INFO] default - exports {
+  messageId: '<202205190854.61092079093@smtp-relay.mailin.fr>'
+}
+[2022-05-19T12:24:57.035] [INFO] default - Reset Password Controller Called
+[2022-05-19T12:24:57.037] [INFO] default - { email: 'sajid.anis2206@gmail.com', iat: 1652943276, exp: 1652943876 }
+[2022-05-19T12:26:08.613] [INFO] default - Database Connected
+[2022-05-19T12:26:08.625] [INFO] default - Server started at 5000
+[2022-05-19T12:26:13.311] [INFO] default - Database Connected
+[2022-05-19T12:26:13.324] [INFO] default - Server started at 5000
+[2022-05-19T12:26:19.291] [INFO] default - Database Connected
+[2022-05-19T12:26:19.304] [INFO] default - Server started at 5000
+[2022-05-19T12:26:20.790] [INFO] default - Database Connected
+[2022-05-19T12:26:20.802] [INFO] default - Server started at 5000
+[2022-05-19T12:26:24.480] [INFO] default - Database Connected
+[2022-05-19T12:26:24.492] [INFO] default - Server started at 5000
+[2022-05-19T12:26:26.447] [INFO] default - Database Connected
+[2022-05-19T12:26:26.460] [INFO] default - Server started at 5000
+[2022-05-19T12:26:43.837] [INFO] default - Database Connected
+[2022-05-19T12:26:43.848] [INFO] default - Server started at 5000
+[2022-05-19T12:27:09.961] [INFO] default - Database Connected
+[2022-05-19T12:27:09.980] [INFO] default - Server started at 5000
+[2022-05-19T12:27:26.025] [INFO] default - Database Connected
+[2022-05-19T12:27:26.037] [INFO] default - Server started at 5000
+[2022-05-19T12:27:30.280] [INFO] default - Database Connected
+[2022-05-19T12:27:30.292] [INFO] default - Server started at 5000
+[2022-05-19T12:27:36.053] [INFO] default - Database Connected
+[2022-05-19T12:27:36.065] [INFO] default - Server started at 5000
+[2022-05-19T12:27:45.909] [INFO] default - Database Connected
+[2022-05-19T12:27:45.920] [INFO] default - Server started at 5000
+[2022-05-19T12:27:50.038] [INFO] default - Database Connected
+[2022-05-19T12:27:50.049] [INFO] default - Server started at 5000
+[2022-05-19T12:27:59.759] [INFO] default - Database Connected
+[2022-05-19T12:27:59.772] [INFO] default - Server started at 5000
+[2022-05-19T12:28:05.438] [INFO] default - Database Connected
+[2022-05-19T12:28:05.451] [INFO] default - Server started at 5000
+[2022-05-19T12:29:16.620] [INFO] default - Registration api has been called
+[2022-05-19T12:29:16.958] [INFO] default - Registration Successful
+[2022-05-19T12:29:16.958] [INFO] default - { name: 'Sajid Anis', email: 'sajid.anis2206@gmail.com' }
+[2022-05-19T12:29:37.201] [INFO] default - Login Controller Called
+[2022-05-19T12:29:41.860] [INFO] default - Activation Controller Called
+[2022-05-19T12:29:41.862] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652942971,
+  exp: 1652944771
+}
+[2022-05-19T12:30:29.564] [INFO] default - Login Controller Called
+[2022-05-19T12:30:32.736] [INFO] default - Forget Controller Called
+[2022-05-19T12:30:33.899] [INFO] default - exports {
+  messageId: '<202205190900.61933570733@smtp-relay.mailin.fr>'
+}
+[2022-05-19T12:30:39.481] [INFO] default - Reset Password Controller Called
+[2022-05-19T12:30:39.482] [INFO] default - { email: 'sajid.anis2206@gmail.com', iat: 1652943276, exp: 1652943876 }
+[2022-05-19T12:30:39.582] [ERROR] default - ReferenceError --> password is not defined
+[2022-05-19T12:31:02.403] [INFO] default - Database Connected
+[2022-05-19T12:31:02.425] [INFO] default - Server started at 5000
+[2022-05-19T12:31:11.069] [INFO] default - Database Connected
+[2022-05-19T12:31:11.081] [INFO] default - Server started at 5000
+[2022-05-19T12:31:28.663] [INFO] default - Database Connected
+[2022-05-19T12:31:28.678] [INFO] default - Server started at 5000
+[2022-05-19T12:31:32.825] [INFO] default - Database Connected
+[2022-05-19T12:31:32.841] [INFO] default - Server started at 5000
+[2022-05-19T12:31:35.629] [INFO] default - Database Connected
+[2022-05-19T12:31:35.641] [INFO] default - Server started at 5000
+[2022-05-19T12:31:38.455] [INFO] default - Database Connected
+[2022-05-19T12:31:38.469] [INFO] default - Server started at 5000
+[2022-05-19T12:31:43.430] [INFO] default - Database Connected
+[2022-05-19T12:31:43.442] [INFO] default - Server started at 5000
+[2022-05-19T12:31:47.336] [INFO] default - Reset Password Controller Called
+[2022-05-19T12:31:47.338] [INFO] default - { email: 'sajid.anis2206@gmail.com', iat: 1652943276, exp: 1652943876 }
+[2022-05-19T12:31:50.195] [INFO] default - Login Controller Called
+[2022-05-19T12:31:54.970] [INFO] default - Activation Controller Called
+[2022-05-19T12:31:54.971] [INFO] default - {
+  name: 'Sajid Anis',
+  email: 'sajid.anis2206@gmail.com',
+  iat: 1652942971,
+  exp: 1652944771
+}
+[2022-05-19T17:36:38.697] [INFO] default - Database Connected
+[2022-05-19T17:36:38.709] [INFO] default - Server started at 5000
+[2022-05-19T17:36:56.710] [INFO] default - Login Controller Called
+[2022-05-19T17:37:58.942] [ERROR] default - No token, Auth Denied. PLease Login
+[2022-05-19T17:38:20.354] [INFO] default - Create Bucket Controller Called
+[2022-05-19T17:38:20.360] [INFO] default - Bucket created successfully --> sajid
+[2022-05-19T18:00:10.015] [INFO] default - Database Connected
+[2022-05-19T18:00:10.027] [INFO] default - Server started at 5000
+[2022-05-19T18:05:08.449] [ERROR] default - S3Error: The specified bucket does not exist
+    at Object.parseError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\xml-parsers.js:71:11)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:166:22
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NoSuchBucket',
+  bucketname: 342369483777,
+  resource: '/342369483777',
+  requestid: '16F081BC2C689E14',
+  hostid: '74cb1c05-6630-4166-99d4-a5683c90ec79',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:06:17.849] [INFO] default - Database Connected
+[2022-05-19T18:06:17.864] [INFO] default - Server started at 5000
+[2022-05-19T18:06:28.447] [INFO] default - Bucket created successfully --> 342369483777
+[2022-05-19T18:06:28.449] [ERROR] default - S3Error: The specified bucket does not exist
+    at Object.parseError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\xml-parsers.js:71:11)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:166:22
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NoSuchBucket',
+  bucketname: 342369483777,
+  resource: '/342369483777',
+  requestid: '16F081CECCB78940',
+  hostid: '74cb1c05-6630-4166-99d4-a5683c90ec79',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:10:06.755] [INFO] default - Database Connected
+[2022-05-19T18:10:06.767] [INFO] default - Server started at 5000
+[2022-05-19T18:10:15.030] [INFO] default - Bucket created successfully --> 342369483777
+[2022-05-19T18:10:15.033] [ERROR] default - S3Error: The specified bucket does not exist
+    at Object.parseError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\xml-parsers.js:71:11)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:166:22
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NoSuchBucket',
+  bucketname: 342369483777,
+  resource: '/342369483777',
+  requestid: '16F082038E1AFD7C',
+  hostid: '74cb1c05-6630-4166-99d4-a5683c90ec79',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:12:49.454] [INFO] default - Database Connected
+[2022-05-19T18:12:49.465] [INFO] default - Server started at 5000
+[2022-05-19T18:12:55.663] [INFO] default - Promise { <pending> }
+[2022-05-19T18:12:55.674] [ERROR] default - S3Error: The specified bucket does not exist
+    at Object.parseError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\xml-parsers.js:71:11)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:166:22
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NoSuchBucket',
+  bucketname: 342369483777,
+  resource: '/342369483777',
+  requestid: '16F08228F5346690',
+  hostid: '74cb1c05-6630-4166-99d4-a5683c90ec79',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:13:13.165] [INFO] default - Database Connected
+[2022-05-19T18:13:13.176] [INFO] default - Server started at 5000
+[2022-05-19T18:13:17.023] [INFO] default - false
+[2022-05-19T18:13:17.029] [ERROR] default - S3Error: The specified bucket does not exist
+    at Object.parseError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\xml-parsers.js:71:11)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:166:22
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NoSuchBucket',
+  bucketname: 342369483777,
+  resource: '/342369483777',
+  requestid: '16F0822DEE443A40',
+  hostid: '74cb1c05-6630-4166-99d4-a5683c90ec79',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:15:49.285] [INFO] default - Database Connected
+[2022-05-19T18:15:49.296] [INFO] default - Server started at 5000
+[2022-05-19T18:15:51.846] [INFO] default - Bucket created successfully --> 342369483777
+[2022-05-19T18:15:51.853] [ERROR] default - S3Error: The specified bucket does not exist
+    at Object.parseError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\xml-parsers.js:71:11)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:166:22
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NoSuchBucket',
+  bucketname: 342369483777,
+  resource: '/342369483777',
+  requestid: '16F08251FA7DAA5C',
+  hostid: '74cb1c05-6630-4166-99d4-a5683c90ec79',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:16:19.999] [INFO] default - Database Connected
+[2022-05-19T18:16:20.012] [INFO] default - Server started at 5000
+[2022-05-19T18:16:33.157] [INFO] default - Bucket created successfully --> 342369483777
+[2022-05-19T18:17:01.898] [INFO] default - Database Connected
+[2022-05-19T18:17:01.910] [INFO] default - Server started at 5000
+[2022-05-19T18:17:05.330] [INFO] default - Database Connected
+[2022-05-19T18:17:05.346] [INFO] default - Server started at 5000
+[2022-05-19T18:29:44.609] [INFO] default - Database Connected
+[2022-05-19T18:29:44.621] [INFO] default - Server started at 5000
+[2022-05-19T18:29:47.838] [INFO] default - Creating a doc
+[2022-05-19T18:31:50.544] [INFO] default - Database Connected
+[2022-05-19T18:31:50.555] [INFO] default - Server started at 5000
+[2022-05-19T18:31:56.629] [INFO] default - Creating a doc
+[2022-05-19T18:32:27.770] [INFO] default - Creating a doc
+[2022-05-19T18:33:46.836] [INFO] default - Database Connected
+[2022-05-19T18:33:46.847] [INFO] default - Server started at 5000
+[2022-05-19T18:34:06.170] [INFO] default - Database Connected
+[2022-05-19T18:34:06.181] [INFO] default - Server started at 5000
+[2022-05-19T18:34:12.783] [INFO] default - Database Connected
+[2022-05-19T18:34:12.795] [INFO] default - Server started at 5000
+[2022-05-19T18:50:17.800] [INFO] default - Database Connected
+[2022-05-19T18:50:17.814] [INFO] default - Server started at 5000
+[2022-05-19T18:50:22.339] [INFO] default - Getting a document by etag --> 3b3dbc9fbeb0a06fdbc4156116811ea3
+[2022-05-19T18:50:22.433] [INFO] default - Creating a doc
+[2022-05-19T18:50:22.439] [ERROR] default - Error: document validation failed: etag: Cast to string failed for value "{ etag: '3b3dbc9fbeb0a06fdbc4156116811ea3', versionId: null }" (type Object) at path "etag"
+    at ValidationError.inspect (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\error\validation.js:48:26)
+    at formatValue (node:internal/util/inspect:780:19)
+    at inspect (node:internal/util/inspect:345:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2165:40)
+    at Object.format (node:internal/util/inspect:2019:10)
+    at basicLayout (C:\Users\sajid\Documents\Project\MedScout\node_modules\log4js\lib\layouts.js:64:57)
+    at app (C:\Users\sajid\Documents\Project\MedScout\node_modules\log4js\lib\appenders\dateFile.js:48:23)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\sajid\Documents\Project\MedScout\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    etag: CastError: Cast to string failed for value "{ etag: '3b3dbc9fbeb0a06fdbc4156116811ea3', versionId: null }" (type Object) at path "etag"
+        at SchemaString.cast (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\schema\string.js:600:11)
+        at SchemaString.SchemaType.applySetters (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\schematype.js:1189:12)
+        at model.$set (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\document.js:1405:20)
+        at model.$set (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\document.js:1137:16)
+        at model.Document (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\document.js:162:12)
+        at model.Model (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\model.js:115:12)
+        at new model (C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\model.js:4841:15)
+        at C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\model.js:3148:22
+        at C:\Users\sajid\Documents\Project\MedScout\node_modules\mongoose\lib\model.js:3184:7
+        at Array.forEach (<anonymous>) {
+      stringValue: `"{ etag: '3b3dbc9fbeb0a06fdbc4156116811ea3', versionId: null }"`,
+      messageFormat: undefined,
+      kind: 'string',
+      value: [Object],
+      path: 'etag',
+      reason: null,
+      valueType: 'Object'
+    }
+  },
+  _message: 'document validation failed'
+}
+[2022-05-19T18:51:07.520] [INFO] default - Database Connected
+[2022-05-19T18:51:07.531] [INFO] default - Server started at 5000
+[2022-05-19T18:51:11.761] [INFO] default - Database Connected
+[2022-05-19T18:51:11.772] [INFO] default - Server started at 5000
+[2022-05-19T18:51:14.941] [INFO] default - Getting a document by etag --> 3b3dbc9fbeb0a06fdbc4156116811ea3
+[2022-05-19T18:51:15.008] [INFO] default - Creating a doc
+[2022-05-19T18:51:49.344] [INFO] default - Getting a document by etag --> 3b3dbc9fbeb0a06fdbc4156116811ea3
+[2022-05-19T18:51:57.164] [INFO] default - Getting a document by etag --> 3b3dbc9fbeb0a06fdbc4156116811ea3
+[2022-05-19T18:58:26.930] [INFO] default - Database Connected
+[2022-05-19T18:58:26.941] [INFO] default - Server started at 5000
+[2022-05-19T18:58:30.998] [INFO] default - Promise { <pending> }
+[2022-05-19T18:58:43.006] [INFO] default - Database Connected
+[2022-05-19T18:58:43.018] [INFO] default - Server started at 5000
+[2022-05-19T18:58:45.109] [INFO] default - {
+  size: 188,
+  metaData: { 'content-type': 'binary/octet-stream' },
+  lastModified: 2022-05-19T13:21:57.000Z,
+  versionId: null,
+  etag: '3b3dbc9fbeb0a06fdbc4156116811ea3'
+}
+[2022-05-19T18:58:53.150] [INFO] default - Database Connected
+[2022-05-19T18:58:53.163] [INFO] default - Server started at 5000
+[2022-05-19T18:58:55.892] [INFO] default - {
+  size: 188,
+  metaData: { 'content-type': 'binary/octet-stream' },
+  lastModified: 2022-05-19T13:21:57.000Z,
+  versionId: null,
+  etag: '3b3dbc9fbeb0a06fdbc4156116811ea3'
+}
+[2022-05-19T18:59:03.952] [INFO] default - {
+  size: 188,
+  metaData: { 'content-type': 'binary/octet-stream' },
+  lastModified: 2022-05-19T13:21:49.000Z,
+  versionId: null,
+  etag: '3b3dbc9fbeb0a06fdbc4156116811ea3'
+}
+[2022-05-19T18:59:09.656] [ERROR] default - S3Error: Not Found
+    at getError (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:148:15)
+    at C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:160:14
+    at DestroyableTransform._flush (C:\Users\sajid\Documents\Project\MedScout\node_modules\minio\dist\main\transformers.js:90:10)
+    at DestroyableTransform.prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_transform.js:129:10)
+    at DestroyableTransform.emit (node:events:520:28)
+    at prefinish (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:611:14)
+    at finishMaybe (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:620:5)
+    at endWritable (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:643:3)
+    at DestroyableTransform.Writable.end (C:\Users\sajid\Documents\Project\MedScout\node_modules\readable-stream\lib\_stream_writable.js:571:22)
+    at IncomingMessage.onend (node:internal/streams/readable:716:10) {
+  code: 'NotFound',
+  amzRequestid: null,
+  amzId2: null,
+  amzBucketRegion: null
+}
+[2022-05-19T18:59:26.187] [INFO] default - Database Connected
+[2022-05-19T18:59:26.199] [INFO] default - Server started at 5000
+[2022-05-19T19:06:33.805] [INFO] default - Database Connected
+[2022-05-19T19:06:33.817] [INFO] default - Server started at 5000
+[2022-05-19T19:06:39.946] [INFO] default - Getting a document by etag --> 3b3dbc9fbeb0a06fdbc4156116811ea3
+[2022-05-19T19:10:37.844] [INFO] default - Database Connected
+[2022-05-19T19:10:37.858] [INFO] default - Server started at 5000
+[2022-05-19T19:10:59.649] [INFO] default - Database Connected
+[2022-05-19T19:10:59.662] [INFO] default - Server started at 5000
+[2022-05-19T19:29:05.953] [INFO] default - Database Connected
+[2022-05-19T19:29:05.964] [INFO] default - Server started at 5000
+[2022-05-31T03:11:42.831] [INFO] default - Database Connected
+[2022-05-31T03:11:42.845] [INFO] default - Server started at 5000
+[2022-05-31T03:20:08.117] [INFO] default - Database Connected
+[2022-05-31T03:20:08.129] [INFO] default - Server started at 5000
+[2022-05-31T03:20:20.243] [INFO] default - Database Connected
+[2022-05-31T03:20:20.255] [INFO] default - Server started at 5000
+[2022-05-31T03:20:57.928] [INFO] default - Database Connected
+[2022-05-31T03:20:57.940] [INFO] default - Server started at 5000
+[2022-05-31T03:25:25.110] [INFO] default - Database Connected
+[2022-05-31T03:25:25.122] [INFO] default - Server started at 5000
+[2022-05-31T03:31:20.289] [INFO] default - Database Connected
+[2022-05-31T03:31:20.301] [INFO] default - Server started at 5000
+[2022-05-31T03:38:44.715] [INFO] default - Database Connected
+[2022-05-31T03:38:44.729] [INFO] default - Server started at 5000
+[2022-05-31T04:48:45.781] [INFO] default - Database Connected
+[2022-05-31T04:48:45.794] [INFO] default - Server started at 5000
+[2022-05-31T04:49:06.108] [INFO] default - Login Controller Called
+[2022-05-31T04:49:38.178] [ERROR] default - Error: connect ECONNREFUSED ::1:9000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 9000
+}
+[2022-05-31T11:54:44.833] [INFO] default - Database Connected
+[2022-05-31T11:54:44.873] [INFO] default - Server started at 5000
+[2022-05-31T11:55:59.385] [INFO] default - Database Connected
+[2022-05-31T11:55:59.399] [INFO] default - Server started at 5000
+[2022-05-31T12:02:41.994] [INFO] default - Database Connected
+[2022-05-31T12:02:42.008] [INFO] default - Server started at 5000
+[2022-05-31T12:03:32.059] [ERROR] default - TokenExpiredError --> jwt expired
+[2022-05-31T12:04:22.061] [INFO] default - Database Connected
+[2022-05-31T12:04:22.074] [INFO] default - Server started at 5000
+[2022-05-31T12:04:26.705] [INFO] default - Database Connected
+[2022-05-31T12:04:26.720] [INFO] default - Server started at 5000
+[2022-05-31T12:04:48.938] [ERROR] default - TypeError: stream.pipe is not a function
+    at downloadRecord (file:///C:/Users/sajid/Documents/Project/MedScout/src/chaincode_api/api.js:26:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-05-31T12:05:08.151] [INFO] default - Database Connected
+[2022-05-31T12:05:08.200] [INFO] default - Server started at 5000
+[2022-05-31T12:05:15.981] [INFO] default - Database Connected
+[2022-05-31T12:05:15.996] [INFO] default - Server started at 5000
+[2022-05-31T12:06:42.333] [INFO] default - Database Connected
+[2022-05-31T12:06:42.345] [INFO] default - Server started at 5000
+[2022-05-31T12:54:58.377] [INFO] default - Database Connected
+[2022-05-31T12:54:58.390] [INFO] default - Server started at 5000
